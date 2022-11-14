@@ -9,7 +9,7 @@ This privacy notice for Sveučilište J. J. Strossmayera u Osijeku - Odjel za ma
 
 *   Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at development@mathos.hr.
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at mathos.development@gmail.hr.
 
 
 **SUMMARY OF KEY POINTS**
@@ -255,7 +255,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
   
 
-If you have questions or comments about your privacy rights, you may email us at development@mathos.hr.
+If you have questions or comments about your privacy rights, you may email us at mathos.development@gmail.hr.
 
   
 
